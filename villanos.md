@@ -2,4 +2,4 @@
 
 * Dr. Doom
 * Galactus
-* Red Skull
+* Capitan América
